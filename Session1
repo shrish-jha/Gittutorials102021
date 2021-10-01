@@ -1,0 +1,19 @@
+Git 
+
+Why Git:
+
+Whenever you are working on any project , We have to manage our code in repository to avoid –
+ 
+1.Code lost due to System Crash ,
+2.Code loss due to   bymistake Delete
+3.Git also makes collaboration easier
+4.Allowing changes by multiple people to all be merged into one source. 
+
+About Git:
+
+Linus Torvalds invented the git
+Linux kernel 
+Bit keeper previous it’s free version-( Paid version- copy right issues )
+Announce a project in (git) 6th April , 2005
+16th June  2005 git managed to kernel 2.6.12 release
+1.0 release on 21st December , 2005
