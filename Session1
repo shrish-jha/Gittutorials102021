@@ -5,7 +5,7 @@ Why Git:
 Whenever you are working on any project , We have to manage our code in repository to avoid –
  
 1.Code lost due to System Crash ,
-2.Code loss due to   bymistake Delete
+2.Code loss due to by mistake Deleting the files
 3.Git also makes collaboration easier
 4.Allowing changes by multiple people to all be merged into one source. 
 
